@@ -1,11 +1,10 @@
-
 .profile-container { 
     padding-top: 55px;
     background: #E9E4E4;
 }
-.about-me-container {
+.about-me {
     background-color: blanchedalmond;
 }
-.about-me {
+.section-title {
     text-align: center;
 }

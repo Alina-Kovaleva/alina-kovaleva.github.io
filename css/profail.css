@@ -1,4 +1,11 @@
+.profile-name-and-image {
+    text-align: center;
+}
 .profile-image {
     clip-path: polygon(11% 0, 100% 0%, 89% 100%, 0% 100%);
     max-width: 70%;
+}
+.profile-information, .profile-name-and-image {
+    display: block;
+    margin: auto;
 }
