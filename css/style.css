@@ -8,3 +8,23 @@
 .section-title {
     text-align: center;
 }
+
+.develop ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+.skills-section {
+    background-color: beige;
+    border-style: ridge; 
+}
+.section-content {
+    
+    padding: 20px;
+    min-height: 100%;
+}
+
+.languages ul {
+    text-align: center;
+    list-style: none;
+}
