@@ -7,6 +7,9 @@
 .about-me {
     background-color: blanchedalmond;
 }
+.about-me .section-content {
+    width: 95%;
+}
 .section-title {
     text-align: center;
 }
@@ -21,7 +24,6 @@
     border-style: ridge; 
 }
 .section-content {
-    
     padding: 20px;
     min-height: 100%;
 }
