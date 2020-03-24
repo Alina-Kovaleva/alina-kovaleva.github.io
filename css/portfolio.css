@@ -7,7 +7,32 @@
 }
 .item-content {
     background-color: bisque;
-    height: 90%;
+    height: 98%;
     margin: 15px;
     border-radius: 5px;
 }
+.timeline_list ul {
+    list-style-type: none;
+}
+.figcaption_info {
+    padding-left: 20px;
+}
+.item-content a {
+    color: black;
+    
+}
+.blur {
+    -webkit-filter: blur(3px);
+    -moz-filter: blur(3px);
+    -o-filter: blur(3px);
+    -ms-filter: blur(3px);
+    filter: blur(3px);
+}
+.blur:hover {
+    -webkit-filter: blur(0px);
+    -moz-filter: blur(0px);
+    -o-filter: blur(0px);
+    -ms-filter: blur(0px);
+    filter: blur(0px);
+}
+

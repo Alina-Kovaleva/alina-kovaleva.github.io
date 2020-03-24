@@ -1,5 +1,6 @@
-.profile-container, .about-me, .skills, .resume { 
-    padding-top: 55px;
+.profile-container, .about-me, .resume { 
+    padding-top: 75px;
+    padding-bottom: 55px;
 }
 .profile-container {
     background: #E9E4E4;
