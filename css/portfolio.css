@@ -1,7 +1,6 @@
-/* #portfolio section {
-    padding-left: 15px;
-    padding-right: 15px;
-} */
+.portfolio {
+    padding-top: 30px;
+}
 .portfolio figure img {
     width: 100%;
 }
