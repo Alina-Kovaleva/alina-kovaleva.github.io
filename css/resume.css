@@ -17,12 +17,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
 }
-/* demo контейнер */
-.demo {
-    max-width: 1024px;
-    padding: 0 20px;
-    margin: 5% 10%;
-}
+
 /* скрываем чекбоксы и блоки с содержанием */
 .hide,
 .hide + label ~ div {
